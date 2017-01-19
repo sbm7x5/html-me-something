@@ -1,3 +1,7 @@
+html {
+    background-color: #aaaaaa;
+}
+
 body {
     max-width: 75%;
     margin: auto;
@@ -6,6 +10,7 @@ body {
     -webkit-box-shadow: 2px -1px 7px 0px rgba(0,0,0,0.75);
 -moz-box-shadow: 2px -1px 7px 0px rgba(0,0,0,0.75);
 box-shadow: 2px -1px 7px 0px rgba(0,0,0,0.75);
+background-color: white;
 }
 
 header {
@@ -50,6 +55,7 @@ h2, h3, h4 {
 
 main {
     clear: both;
+    background-color: white;
 }
 
 article {
