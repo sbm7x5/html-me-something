@@ -1,0 +1,80 @@
+body {
+    max-width: 75%;
+    margin: auto;
+    margin-top: 20px;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    -webkit-box-shadow: 2px -1px 7px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 2px -1px 7px 0px rgba(0,0,0,0.75);
+box-shadow: 2px -1px 7px 0px rgba(0,0,0,0.75);
+}
+
+header {
+        padding: 20px;
+        overflow: auto;
+}
+
+#intro {
+    background-color: #dddddd;
+    overflow: auto;
+}
+
+header img {
+    display: inline;
+    margin: 5%;
+    float: left;
+}
+
+h1 {
+    text-align: center;
+    font-family: cursive;
+    font-size: 2 em;
+    color: #6d2424;
+}
+
+#name {
+    font-size: 45px;
+
+}
+
+h2, h3, h4 {
+    font-family: Tahoma, Geneva, sans-serif;
+    font-weight: normal;
+}
+
+.right {
+    max-width: 60%;
+    margin: auto;
+    display: inline;
+    float: right;
+}
+
+main {
+    clear: both;
+}
+
+article {
+    border-bottom: 1px solid black;
+    padding: 15px 30px 15px 30px;
+}
+
+.icon {
+    max-width: 50px;
+    max-height: 50px;
+    vertical-align: middle;
+    padding: 10px;
+}
+
+ul {
+    padding: 0 5% 0 5%;
+}
+
+footer p {
+    padding-left: 2%;
+}
+
+footer li {
+    list-style: none;
+    display: inline;
+    padding-right: 5%;
+    padding-left: 2%;
+}
